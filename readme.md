@@ -121,4 +121,7 @@ Correo: replacedspace17@singularitymx.org
 
 GitHub: github.com/ReplacedSpace17
 
+<<<<<<< Updated upstream
 # h
+=======
+>>>>>>> Stashed changes
